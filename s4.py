@@ -4,7 +4,7 @@ import datetime
 import os
 # S4 OFFICIAL GRP. JOIN TO MORE UPDATES 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('7518021681:AAGfLpiLSXkcoL3XAoMs-z92uqNIoRZJjWM')
+bot = telebot.TeleBot('7604733966:AAEq6NPyHcVaeEOB2jcXKjMMSLMPe0WjaTM')
 # DEVELOPER --> @S4_LUCHI
 # Admin user IDs
 admin_id = ["","6769245930"]
